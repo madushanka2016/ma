@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "madushanka-bee06": {
+      "hosting": {
+        "madushanka": [
+          "madushanka-bee06"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "madushanka-bee06"
+  }
+}
